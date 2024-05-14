@@ -6,7 +6,7 @@
 
 # I am currently working on all things Github, trying to graduate to an intermediate level user. 🎉
 
-# In my history of coding I have created projects using VBA, Python and DAX. I am currently learning C, C++, C#, PHP, Java, and Ruby. Not perticularly in that order. 🧩
+# In my history of coding I have created projects using VBA, Python and DAX. I am currently learning C, C++, C#, PHP, Java, and Ruby. Not particularly in that order. 🧩
 
 # I am looking to collaborate on projects that use Python or Java. ✍
 
